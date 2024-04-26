@@ -1,0 +1,14 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: "Diff-A-Riff - Companion Website"
+description: "This is the accompanying website to 'Diff-a-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models' submitted to ISMIR 2024."
+show_downloads: false
+github:
+  is_project_page: false
+
+
+markdown: kramdown
+kramdown:
+    math_engine: katex
