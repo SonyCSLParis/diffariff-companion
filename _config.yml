@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: "Diff-A-Riff - Companion Website"
-description: "This is the accompanying website to 'Diff-a-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models' submitted to ISMIR 2024."
+description: "This is the accompanying website to 'Diff-a-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models'."
 show_downloads: false
 github:
   is_project_page: false
