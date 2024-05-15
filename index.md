@@ -112,7 +112,7 @@ Diff-A-Riff allows the generation of accompaniments based on an audio reference.
     <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref2/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
     <tr>
-    <td class="tg-0pky" rowspan="2"><audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/context.mp3" type="audio/mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky" rowspan="2"><sup>3</sup> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/context.mp3" type="audio/mp3"> Your Browser does not support the audio tag </audio> </td>
     <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref1/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
     <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref1/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
     <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref1/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
@@ -128,6 +128,8 @@ Diff-A-Riff allows the generation of accompaniments based on an audio reference.
 <sup>1</sup> : James May - If You Say, from the [DSD100 Dataset](https://sigsep.github.io/datasets/dsd100.html) [[2](#extra-references)]
 
 <sup>2</sup> : Sambasevam Shanmugam - Kaathaadi, from the [DSD100 Dataset](https://sigsep.github.io/datasets/dsd100.html)
+
+<sup>3</sup> : Melody loop by DaveJf, from [FreeSound](https://freesound.org/s/724935/)
 
 #### With Text CLAP
 
