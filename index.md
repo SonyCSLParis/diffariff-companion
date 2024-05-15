@@ -163,7 +163,7 @@ Diff-A-Riff also allows to specify the accompaniment using a text prompt. This r
     <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt1/gen2_mix_vol.wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">"Drums with reverb and a lot of soft hats."</td>
+    <td class="tg-0pky">"Drums with reverb and a lot of hats/cymbals."</td>
     <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt2/gen1_mix_vol.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
     <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt2/gen2_mix_vol.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
