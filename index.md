@@ -125,9 +125,9 @@ Diff-A-Riff allows the generation of accompaniments based on an audio reference.
 </tbody>
 </table>
 
-<sup>1</sup> : Andres Guazzelli - Flores De Abril, from [The 'Mixing Secrets' Free Multitrack Library](https://www.cambridge-mt.com/ms/mtk/)
+<sup>1</sup> : James May - If You Say, from the [DSD100 Dataset](https://sigsep.github.io/datasets/dsd100.html) [[2](#extra-references)]
 
-<sup>2</sup> : The Abletones Big Band - Corine Corine, from [The 'Mixing Secrets' Free Multitrack Library](https://www.cambridge-mt.com/ms/mtk/)
+<sup>2</sup> : Sambasevam Shanmugam - Kaathaadi, from the [DSD100 Dataset](https://sigsep.github.io/datasets/dsd100.html)
 
 #### With Text CLAP
 
@@ -170,9 +170,9 @@ Diff-A-Riff also allows to specify the accompaniment using a text prompt. This r
 </tbody>
 </table>
 
-<sup>3</sup> : Fergessen - Back From The Start, from [The 'Mixing Secrets' Free Multitrack Library](https://www.cambridge-mt.com/ms/mtk/)
+<sup>3</sup> : Fergessen - Back From The Start, from the [DSD100 Dataset](https://sigsep.github.io/datasets/dsd100.html)
 
-<sup>4</sup> : Ian Dearden - Song for John, from [The 'Mixing Secrets' Free Multitrack Library](https://www.cambridge-mt.com/ms/mtk/)
+<sup>4</sup> : Leaf - Come Around, from the [DSD100 Dataset](https://sigsep.github.io/datasets/dsd100.html) 
 
 #### Context-only, no CLAP
 
@@ -675,6 +675,8 @@ We recognize the impact of technology on society and are committed to continuous
 
 ## Extra References
 [1] *Barry, Dan, et al. "Go Listen: An End-to-End Online Listening Test Platform." Journal of Open Research Software 9.1 (2021)*
+
+[2] *Liutkus, Antoine, et al. "The 2016 signal separation evaluation campaign." Latent Variable Analysis and Signal Separation: 13th International Conference, LVA/ICA 2017, Grenoble, France, February 21-23, 2017, Proceedings 13. Springer International Publishing, 2017.*
 
 
 <script>
