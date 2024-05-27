@@ -91,36 +91,36 @@ Diff-A-Riff allows the generation of accompaniments based on an audio reference.
 <tbody>
   <tr>
     <td class="tg-0pky" rowspan="2"><sup>1</sup> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/context.mp3" type="audio/mp3"> Your Browser does not support the audio tag </audio></td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref1/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref1/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref1/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref1/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref1/gen1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref1/gen2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref2/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref2/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref2/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref2/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref2/gen1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/1/ref2/gen2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="2"><sup>2</sup><audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/context.mp3" type="audio/mp3"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref1/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref1/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref1/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref1/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref1/gen1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref1/gen2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref2/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref2/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref2/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref2/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref2/gen1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/2/ref2/gen2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
     <tr>
     <td class="tg-0pky" rowspan="2"><sup>3</sup> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/context.mp3" type="audio/mp3"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref1/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref1/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref1/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref1/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref1/gen1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref1/gen2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref2/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref2/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref2/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref2/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref2/gen1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/context/3/ref2/gen2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 </tbody>
 </table>
@@ -150,24 +150,24 @@ Diff-A-Riff also allows to specify the accompaniment using a text prompt. This r
   <tr>
     <td class="tg-0pky" rowspan="2"><sup>3</sup> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/1/context.mp3" type="audio/mp3"> Your Browser does not support the audio tag </audio> </td>
     <td class="tg-0pky">"A solo ukulele delivering a cheerful and sunny accompaniment."</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/1/prompt1/gen1_mix_vol.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/1/prompt1/gen2_mix_vol.wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/1/prompt1/gen1_mix_vol.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/1/prompt1/gen2_mix_vol.mp3"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky">"A mellow synthesizer playing ethereal pads."</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/1/prompt2/gen1_mix_vol.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/1/prompt2/gen2_mix_vol.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/1/prompt2/gen1_mix_vol.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/1/prompt2/gen2_mix_vol.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="2"> <sup>4</sup><audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/context.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
     <td class="tg-0pky">"Drums with reverb and a lot of toms."</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt1/gen1_mix_vol.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt1/gen2_mix_vol.wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt1/gen1_mix_vol.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt1/gen2_mix_vol.mp3"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky">"Drums with reverb and a lot of hats/cymbals."</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt2/gen1_mix_vol.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt2/gen2_mix_vol.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt2/gen1_mix_vol.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/context/2/prompt2/gen2_mix_vol.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 </tbody>
 </table>
@@ -194,33 +194,33 @@ The model can generate accompaniments from a context only, without the need for 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/1/context.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/1/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/1/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/1/gen3_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/1/gen4_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/1/context.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/1/gen1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/1/gen2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/1/gen3_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/1/gen4_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/2/context.mp3" type="audio/mp3"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/2/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/2/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/2/gen3_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-        <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/2/gen4_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/2/gen1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/2/gen2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/2/gen3_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+        <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/2/gen4_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/context.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/gen5_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/gen3_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <!-- <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/gen4_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td> -->
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/context.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/gen5_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/gen2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/gen3_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <!-- <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/gen4_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td> -->
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/3/gen1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>  
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/4/context.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/4/gen1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/4/gen2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/4/gen3_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/4/gen4_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/4/context.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/4/gen1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/4/gen2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/4/gen3_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/context-only/4/gen4_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 </tbody>
 </table>
@@ -235,25 +235,25 @@ Despite Diff-A-Riff generating only solo instrumental tracks, we are able to gen
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_3.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_3.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_4.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_5.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_6.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_4.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_5.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_6.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_7.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_8.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_9.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_7.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_8.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_9.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_10.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_11.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_12.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_10.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_11.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/full/track_12.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
  
 </tbody>
@@ -280,22 +280,22 @@ Diff-A-Riff also allows the generation of solo instrument tracks conditioned on 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/1/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/1/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/1/gen2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/1/gen3.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/1/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/1/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/1/gen2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/1/gen3.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/2/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/2/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/2/gen2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/2/gen3.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/2/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/2/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/2/gen2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/2/gen3.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/3/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/3/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/3/gen2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/3/gen3.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/3/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/3/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/3/gen2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/audio-cond/no-context/3/gen3.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 </tbody>
 </table>
@@ -318,23 +318,23 @@ In this section, you can hear single instrument tracks generated solely from a t
 <tbody>
   <tr>
     <td class="tg-0pky">"Guitar played folk style."</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/1/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/1/gen2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/1/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/1/gen2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky">"Slow evolving pad synth."</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/2/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/2/gen2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/2/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/2/gen2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky">"A vibrant, funky bassline characterized by the electrifying slap technique, where each note pops with a distinct rhythmic snap and sizzle."</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/3/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/3/gen2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/3/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/3/gen2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky">"A pulsating techno drum beat, where a deep bass kick thunders every quarter note, creating a relentless and hypnotic pulse."</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/4/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/4/gen2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/4/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/text-cond/no-context/4/gen2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 </tbody>
 </table>
@@ -350,29 +350,29 @@ In this section, we show single instrument tracks generated without context or C
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen3.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen4.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen5.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen3.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen4.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen5.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen6.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen7.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen8.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen6.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen7.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen8.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen9.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen10.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen11.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen9.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen10.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen11.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen12.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen13.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen14.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen12.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen13.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/uncond/gen14.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   
 </tbody>
@@ -403,48 +403,48 @@ In the following examples, all tracks are inpainted from second 5 to 8.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/context.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/original_masked.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting0_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting0.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/context.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/original_masked.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting0_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting0.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-  </tr>
-<!-- new ctx -->
-  <tr>
-    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/context.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/original_masked.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting0_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting0.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/1/inpainting2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 <!-- new ctx -->
   <tr>
-    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/context.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/original_masked.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting0_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting0.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/context.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/original_masked.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting0_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting0.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting1_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting2_mix.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/2/inpainting2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+  </tr>
+<!-- new ctx -->
+  <tr>
+    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/context.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax" rowspan="3"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/original_masked.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting0_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting0.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting1_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting2_mix.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/inpainting/3/inpainting2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 <!-- new ctx -->
 </tbody>
@@ -460,53 +460,53 @@ We can interpolate between different references in the CLAP space. Here, we demo
 <tbody>
   <tr>
     <th class="tg-0pky"> Audio Reference </th>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/ref.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/ref.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <th class="tg-0pky"> $$ r = 0 $$ </th>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen0.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen0.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen0.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen0.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen0.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen0.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen0.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen0.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <th class="tg-0pky"> $$ r = 0.2 $$ </th>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen0.2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen0.2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen0.2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen0.2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen0.2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen0.2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen0.2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen0.2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 
   <tr>
     <th class="tg-0pky"> $$ r = 0.4 $$ </th>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen0.4.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen0.4.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen0.4.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen0.4.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen0.4.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen0.4.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen0.4.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen0.4.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <th class="tg-0pky"> $$ r = 0.6 $$ </th>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen0.6.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen0.6.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen0.6.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen0.6.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen0.6.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen0.6.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen0.6.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen0.6.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <th class="tg-0pky"> $$ r = 0.8 $$ </th>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen0.8.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen0.8.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen0.8.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen0.8.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen0.8.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen0.8.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen0.8.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen0.8.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <th class="tg-0pky"> $$ r = 1 $$ </th>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen1.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/2/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/3/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/4/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0pky"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/interpolations/5/gen1.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
     <tr>
     <th class="tg-0pky"> Text Prompt </th>
@@ -537,28 +537,28 @@ Given an audio file, we can encode it in the CAE latent space and get the corres
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/1/orig.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/1/0.20.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/1/0.50.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/1/0.80.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/1/orig.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/1/0.20.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/1/0.50.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/1/0.80.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/2/orig.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/2/0.20.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/2/0.50.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/2/0.80.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/2/orig.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/2/0.20.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/2/0.50.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/2/0.80.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/3/orig.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/3/0.20.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/3/0.50.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/3/0.80.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/3/orig.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/3/0.20.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/3/0.50.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/3/0.80.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/4/orig.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/4/0.20.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/4/0.50.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/4/0.80.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/4/orig.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/4/0.20.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/4/0.50.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/variations/4/0.80.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 
 </tbody>
@@ -583,22 +583,22 @@ Following the same principle as for variations, for any mono signal, we can crea
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/1/0.0.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/1/0.2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/1/0.4.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/1/0.5.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/1/0.0.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/1/0.2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/1/0.4.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/1/0.5.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/2/0.0.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/2/0.2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/2/0.4.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/2/0.5.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/2/0.0.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/2/0.2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/2/0.4.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/2/0.5.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
     <tr>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/3/0.0.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/3/0.2.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/3/0.4.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/3/0.5.wav" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/3/0.0.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/3/0.2.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/3/0.4.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/stereo/3/0.5.mp3" type="audio/wav"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 </tbody>
 </table>
@@ -620,40 +620,40 @@ By repeating a portion of the data being denoised, we can enforce repetitions in
   <tr>
     <td class="tg-0pky" rowspan="3"> 2 </td>
     <td class="tg-0pky">0.5</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_2_reps.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_2_reps_1.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_2_reps_2.wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_2_reps.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_2_reps_1.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_2_reps_2.mp3"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky">0.8</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_2_reps.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_2_reps_1.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_2_reps_2.wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_2_reps.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_2_reps_1.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_2_reps_2.mp3"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky">1</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_2_reps.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_2_reps_1.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_2_reps_2.wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_2_reps.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_2_reps_1.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_2_reps_2.mp3"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="3"> 4 </td>
     <td class="tg-0pky">0.5</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_4_reps.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_4_reps_1.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_4_reps_2.wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_4_reps.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_4_reps_1.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.5_4_reps_2.mp3"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky">0.8</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_4_reps.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_4_reps_1.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_4_reps_2.wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_4_reps.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_4_reps_1.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/0.8_4_reps_2.mp3"> Your Browser does not support the audio tag </audio> </td>
   </tr>
   <tr>
     <td class="tg-0pky">1</td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_4_reps.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_4_reps_1.wav"> Your Browser does not support the audio tag </audio> </td>
-    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_4_reps_2.wav"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_4_reps.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_4_reps_1.mp3"> Your Browser does not support the audio tag </audio> </td>
+    <td class="tg-0lax"> <audio controls controlsList="nodownload"><source src="https://sonycslparis.github.io/diffariff-companion/audios/bonus/loops/1_4_reps_2.mp3"> Your Browser does not support the audio tag </audio> </td>
   </tr>
 </tbody>
 </table>
@@ -672,8 +672,12 @@ Here, you can find examples of the questions participants had to answer in our u
 
 ## Ethics Statement
 
-Diff-A-Riff raises ethical considerations regarding musical agency  emphasizing the need for a commitment to ethical practices. This technology is designed to support and enhance human creativity, not replace it. The technology provides tools for generating and manipulating musical elements with human guidance, ensuring that artists remain in control of creative decisions. Additionally, the technology is programmed to adapt to pre-existing material. Therefore, it is important for users to verify the uniqueness of their compositions to prevent plagiarism, as Diff-A-Riff is trained on copyrighted data.
-We recognize the impact of technology on society and are committed to continuously evaluating the ethical implications of Diff-A-Riff. We work with the music community to ensure our practices align with societal values and artistic norms, fostering trust and confidence in our technology. Furthermore, it is important to note that we cannot share our dataset as it is private and, while legally obtained, it contains material that prevents us from releasing the model in its current form. This issue raises concerns about scientific reproducibility. We are eager to discuss ethical and moral alternatives with anyone interested in this essential aspect of scientific progress.
+Sony Computer Science Laboratories is a fundamental research lab with a music team investigating with music creators the possible positive use cases of AI in a human creative process.
+We are passionate about developing innovative technologies to enhance creativity with and for artists whether they are amateur or professionals.
+We adhere to strong ethical standards and actively engage with the music community and the music industry to ensure that our practices aligns with societal values.
+Our extensive experience working with songwriters and recording artists has demonstrated the immense effort and dedication they invest in crafting their sound, uniqueness, and creativity. Therefore, it is imperative that our use of technology fully respects, protects and honors this commitment.
+Diff-A-Riff has been trained on a legally acquired dataset by Sony CSL […] for their own internal research activities and technology development […]. As a research project, it cannot be made available to the public, even for demonstration purposes. Additionally, we are in the process of ensuring full compliance with laws and are also addressing any possible ethical concerns.
+For any media, institutional or industrial inquiry please contact us via the email address in the paper.
 
 ## Extra References
 [1] *Barry, Dan, et al. "Go Listen: An End-to-End Online Listening Test Platform." Journal of Open Research Software 9.1 (2021)*
