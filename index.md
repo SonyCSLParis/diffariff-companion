@@ -672,12 +672,13 @@ Here, you can find examples of the questions participants had to answer in our u
 
 ## Ethics Statement
 
-Sony Computer Science Laboratories is a fundamental research lab with a music team investigating with music creators the possible positive use cases of AI in a human creative process.
-We are passionate about developing innovative technologies to enhance creativity with and for artists whether they are amateur or professionals.
-We adhere to strong ethical standards and actively engage with the music community and the music industry to ensure that our practices aligns with societal values.
-Our extensive experience working with songwriters and recording artists has demonstrated the immense effort and dedication they invest in crafting their sound, uniqueness, and creativity. Therefore, it is imperative that our use of technology fully respects, protects and honors this commitment.
-Diff-A-Riff has been trained on a legally acquired dataset by Sony CSL […] for their own internal research activities and technology development […]. As a research project, it cannot be made available to the public, even for demonstration purposes. Additionally, we are in the process of ensuring full compliance with laws and are also addressing any possible ethical concerns.
-For any media, institutional or industrial inquiry please contact us via the email address in the paper.
+Sony Computer Science Laboratories is committed to exploring the positive applications of AI in music creation. We collaborate with artists to develop innovative technologies that enhance creativity. We uphold strong ethical standards and actively engage with the music community and industry to align our practices with societal values. Our team is mindful of the extensive work that songwriters and recording artists dedicate to their craft. Our technology must respect, protect, and honour this commitment.
+
+Diff-A-Riff supports and enhances human creativity and emphasises the artist's agency by providing various controls for generating and manipulating musical material. By generating a stem at a time, the artist remains responsible for the entire musical arrangement.
+
+Diff-A-Riff has been trained on a dataset that was legally acquired for internal research and development; therefore, neither the data nor the model can be made publicly available. We are doing our best to ensure full legal compliance and address all ethical concerns.
+
+For media, institutional, or industrial inquiries, please contact us via the email address provided in the paper.
 
 ## Extra References
 [1] *Barry, Dan, et al. "Go Listen: An End-to-End Online Listening Test Platform." Journal of Open Research Software 9.1 (2021)*
