@@ -24,7 +24,7 @@ audio::-webkit-media-controls-seek-forward-button {
 
 # Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models
 
-This is the accompanying website to "Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models".
+This is the accompanying website to ["Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models".](https://arxiv.org/abs/2406.08384)
 
   * [System's Overview](#systems-overview)
   * [Sound Examples](#sound-examples)
